@@ -36,7 +36,7 @@ The Stopwatch is a simple web-based timer application built using HTML, CSS, and
 
 ## Screenshots
 
-![Stopwatch Screenshot]()
+![Stopwatch Screenshot](https://github.com/Himanshu-Toshniwal/Stopwatch/blob/60c82cda81ba259df64ca92b205a01820c9ec99d/Stopwatch.png)
 
 
 
